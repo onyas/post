@@ -1,5 +1,5 @@
 ---
-title: ClassPool简介
+title: Javassist入门之ClassPool简介
 tags:
 	- javassist
 	- 翻译

@@ -1,5 +1,5 @@
 ---
-title: 读写字节码
+title: Javassist入门之读写字节码
 tags: 
 	- java
 	- javassist
