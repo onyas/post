@@ -1,5 +1,5 @@
 ---
-title: javassist入门之字节码接口
+title: Javassist入门之字节码接口
 tags:
 	- java
 	- javassist

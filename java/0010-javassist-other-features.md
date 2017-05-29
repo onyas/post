@@ -1,5 +1,5 @@
 ---
-title: javassist入门之其他特性
+title: Javassist入门之其他特性
 tags:
 	- java
 	- javassist
