@@ -1,5 +1,5 @@
 ---
-title: 自我检查和定制
+title: Javassist入门之自我检查和定制
 tags:
 	- java
 	- javassist
